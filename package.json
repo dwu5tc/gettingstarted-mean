@@ -1,5 +1,5 @@
 {
-  "name": "gettingstarted-mongodb",
+  "name": "gettingstarted-mean",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwu5tc/gettingstarted-mongodb.git"
+    "url": "git+https://github.com/dwu5tc/gettingstarted-mean.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dwu5tc/gettingstarted-mongodb/issues"
+    "url": "https://github.com/dwu5tc/gettingstarted-mean/issues"
   },
-  "homepage": "https://github.com/dwu5tc/gettingstarted-mongodb#readme",
+  "homepage": "https://github.com/dwu5tc/gettingstarted-mean#readme",
   "dependencies": {
     "body-parser": "^1.18.0",
     "ejs": "^2.5.7",
